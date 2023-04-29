@@ -38,7 +38,7 @@ namespace ForzarEnvioCorreos
             this.button1.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
             this.button1.Font = new System.Drawing.Font("Tahoma", 21.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button1.ForeColor = System.Drawing.SystemColors.ButtonFace;
-            this.button1.Location = new System.Drawing.Point(279, 155);
+            this.button1.Location = new System.Drawing.Point(294, 106);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(248, 109);
             this.button1.TabIndex = 0;

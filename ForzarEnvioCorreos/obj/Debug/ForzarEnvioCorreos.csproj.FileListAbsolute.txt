@@ -59,7 +59,6 @@ C:\Users\bmarquez\Downloads\ForzarEnvioCorreos\ForzarEnvioCorreos\bin\Debug\Syst
 C:\Users\bmarquez\Downloads\ForzarEnvioCorreos\ForzarEnvioCorreos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
 C:\Users\bmarquez\Downloads\ForzarEnvioCorreos\ForzarEnvioCorreos\bin\Debug\System.Threading.Tasks.Extensions.xml
 C:\Users\bmarquez\Downloads\ForzarEnvioCorreos\ForzarEnvioCorreos\obj\Debug\ForzarEnvioCorreos.csproj.AssemblyReference.cache
-C:\Users\bmarquez\Downloads\ForzarEnvioCorreos\ForzarEnvioCorreos\obj\Debug\ForzarEnvioCorreos.csproj.SuggestedBindingRedirects.cache
 C:\Users\bmarquez\Downloads\ForzarEnvioCorreos\ForzarEnvioCorreos\obj\Debug\ForzarEnvioCorreos.Form1.resources
 C:\Users\bmarquez\Downloads\ForzarEnvioCorreos\ForzarEnvioCorreos\obj\Debug\ForzarEnvioCorreos.Properties.Resources.resources
 C:\Users\bmarquez\Downloads\ForzarEnvioCorreos\ForzarEnvioCorreos\obj\Debug\ForzarEnvioCorreos.csproj.GenerateResource.cache
@@ -67,3 +66,4 @@ C:\Users\bmarquez\Downloads\ForzarEnvioCorreos\ForzarEnvioCorreos\obj\Debug\Forz
 C:\Users\bmarquez\Downloads\ForzarEnvioCorreos\ForzarEnvioCorreos\obj\Debug\ForzarEnvioCorreos.csproj.CopyComplete
 C:\Users\bmarquez\Downloads\ForzarEnvioCorreos\ForzarEnvioCorreos\obj\Debug\ForzarEnvioCorreos.exe
 C:\Users\bmarquez\Downloads\ForzarEnvioCorreos\ForzarEnvioCorreos\obj\Debug\ForzarEnvioCorreos.pdb
+C:\Users\bmarquez\Downloads\ForzarEnvioCorreos\ForzarEnvioCorreos\obj\Debug\ForzarEnvioCorreos.csproj.SuggestedBindingRedirects.cache
